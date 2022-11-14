@@ -1,0 +1,38 @@
+.QuizCreator {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-grow: 1;
+    width: 100%;
+    background-color: rgb(69, 65, 105);
+}
+.QuizCreator > div {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+
+}
+.QuizCreator h1 {
+    text-align: center;
+    color: wheat;
+}
+.QuizCreator form {
+    background-color: #2c2944;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 30px;
+    box-shadow: 17px 17px 17px rgba(0, 0, 0, .5);
+}
+.QuizCreator form label {
+    margin-bottom: 8px;
+}
+.HR hr{
+    border-color: rgb(185, 55, 55);
+    background-color: rgb(185, 55, 55);
+    padding: 1px;
+    border-radius: 30px;
+}
+.HR {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

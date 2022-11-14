@@ -1,0 +1,10 @@
+.Line {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.Line hr{
+    border-color: rgb(185, 55, 55);
+    background-color: rgb(185, 55, 55);
+    padding: 1px;
+    border-radius: 30px;
+}
